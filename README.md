@@ -25,4 +25,4 @@ A responsive e-commerce product listing page built with Next.js and Tailwind CSS
 - React
 - Tailwind CSS
 - TypeScript
-- Dummy JSON API (or your backend)
+- Dummy JSON API 
